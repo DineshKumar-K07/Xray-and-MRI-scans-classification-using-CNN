@@ -1,6 +1,7 @@
-Xray and MRI scans classification using CNN
+                                                    Xray and MRI scans classification using CNN
 
-Project Overview
+
+Project Overview:
 
 This project implements a Convolutional Neural Network (CNN)–based system for classifying medical images.
 It focuses on:
