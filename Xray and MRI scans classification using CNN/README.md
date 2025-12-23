@@ -58,6 +58,16 @@ Source: Kaggle (Brain MRI tumor datasets)
 Datasets are not included in this repository due to size and licensing restrictions.
 Please download the datasets directly from trusted online sources such as Kaggle and organize them according to the required folder structure.
 
+Architecture:
+          Xray-and-MRI-scans-classification-using-CNN  /
+├── main.py
+├── models/
+│   ├── braintumor.h5
+│   ├── Tuberculosis_model.h5
+│   └── pneumonia_model.h5
+├── templates/
+│   └── index.html
+
 How to Run
 
 Clone the repository
